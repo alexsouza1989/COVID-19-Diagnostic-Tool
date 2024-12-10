@@ -1,4 +1,8 @@
 # COVID-19 Diagnostic Tool
+The executable file can be downloaded at https://drive.google.com/file/d/1p--FzgQoGOw3s8kGFupiboHEy_-Hn1Xf/view?usp=sharing
+
+This is a basic and simple initial version designed to test the implementation of machine learning models without requiring coding, making it easier to use.
+
 
 ## Description
 
@@ -47,3 +51,21 @@ PROJETO_FLEURY/
 
 Running the Executable
 Navigate to the dist folder and run the fleury.exe file
+
+
+---
+
+**Instructions for Use:**
+
+1. **Copy the entire content** within the triple backticks (```markdown) above.
+2. **Paste** it directly into your `README.md` file in your GitHub repository.
+3. **Replace placeholders** such as `alexsouza1989`, `Alex`, `alex154237@gmail.com`, and `https://www.linkedin.com/in/alex-fernandes-de-souza-2648325b/` with your actual information.
+4. **Verify formatting** by viewing the `README.md` on GitHub to ensure all sections and code blocks appear correctly.
+
+**Note:**
+- The link to the executable has been added in the **Executable** section under step 5.
+- Ensure that the Google Drive link is accessible to your intended audience.
+- If you have multiple executables or different versions, consider using GitHub Releases for better version control and accessibility.
+
+If you encounter any formatting issues after pasting, double-check the markdown syntax, especially the code blocks and links.
+
