@@ -69,3 +69,25 @@ Navigate to the dist folder and run the fleury.exe file
 
 If you encounter any formatting issues after pasting, double-check the markdown syntax, especially the code blocks and links.
 
+## Photos
+
+![image](https://github.com/user-attachments/assets/72662049-331a-49fc-ba2c-bd02ed053681)
+![Basófilos(%)](https://github.com/user-attachments/assets/5041712c-f071-44ab-b787-ee1a683a581e)
+![Basófilos](https://github.com/user-attachments/assets/9a7b305e-bec3-442c-992e-2ee96d5167c4)
+![Eosinófilos](https://github.com/user-attachments/assets/e4d8904c-5b00-409e-ae34-ad16b064a4f9)
+![Eritrócitos](https://github.com/user-attachments/assets/b80de9f0-1ac0-404e-bd13-bcdcbd22fad1)
+![Hematócrito](https://github.com/user-attachments/assets/a96d5403-ea9c-4753-8b2f-ddf52aed1dbb)
+![Hemoglobina](https://github.com/user-attachments/assets/88192d05-ba85-45cd-a4dc-9496dab2abf6)
+![Leucócitos](https://github.com/user-attachments/assets/dd22fbc9-cfc6-4780-9afb-bdc118132667)
+![Linfócitos(%)](https://github.com/user-attachments/assets/c25834ec-33ba-4d97-ab59-c8ad63715bd2)
+![Linfócitos](https://github.com/user-attachments/assets/94ddde51-9fd8-4cd0-b8c3-e8e68794cd26)
+![curva_roc_KNN](https://github.com/user-attachments/assets/b5b47b13-85b5-4d11-b98f-14d508db69e0)
+![curva_roc_Random Forest](https://github.com/user-attachments/assets/bef4849a-d574-48e1-aae2-0183bfe15ae3)
+![curva_roc_SVM](https://github.com/user-attachments/assets/aa3dd34d-8b73-41e4-9421-6daa64db7037)
+![importancia_features](https://github.com/user-attachments/assets/0bc999fa-7719-4496-b132-1c7336f494ed)
+![importancia_features_Random Forest](https://github.com/user-attachments/assets/cded7320-e91f-4e48-8ec1-fc05e225b8b5)
+![matriz_confusao_KNN](https://github.com/user-attachments/assets/e9a52226-2de7-4afd-808c-a002b5a1e47b)
+![matriz_confusao_Random Forest](https://github.com/user-attachments/assets/8ab42553-c9dd-48b0-bd81-ecc97c6c5520)
+![matriz_confusao_SVM](https://github.com/user-attachments/assets/1bab62b7-83aa-4f56-b5f2-d2c1688701f4)
+
+
